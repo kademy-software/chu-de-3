@@ -26,7 +26,37 @@ let data = [
         'title': 'Đông Nam Á',
         'name': 'dna.mp4',
         'duration': '12 giây',
-    }
+    },
+    {
+        'id': 'a6',
+        'title': 'Cộng Hoà Séc',
+        'name': 'chs.mov',
+        'duration': '12 giây',
+    },
+    {
+        'id': 'a7',
+        'title': 'Chi Lê',
+        'name': 'cl.mov',
+        'duration': '12 giây',
+    },
+    {
+        'id': 'a8',
+        'title': 'Cô-lô-bi-a',
+        'name': 'clb.mov',
+        'duration': '12 giây',
+    },
+    {
+        'id': 'a9',
+        'title': 'Băng-la-đét',
+        'name': 'bld.mov',
+        'duration': '12 giây',
+    },
+    {
+        'id': 'a10',
+        'title': 'Bun-ga-ri',
+        'name': 'Bungari.mov',
+        'duration': '12 giây',
+    },
    
     
 
